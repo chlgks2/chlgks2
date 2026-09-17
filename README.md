@@ -15,34 +15,6 @@
 
 ---
 
-## 🧭 저를 설명하는 두 가지
-
-<table>
-<tr><td width="50%" valign="top">
-
-**① 지표가 실사용을 반영하는지 의심합니다**
-
-[Emour](https://github.com/chlgks2/Emour)에서 gold셋 macro-F1 **0.73** 으로
-배포한 모델이 실제 대화 흐름에서 **0.175** 로 무너졌습니다.
-
-모델을 고치기 전에 **평가 방식을 먼저 고쳤고**,
-그 과정에서 평가셋 오염으로 점수가 뒤집히는 것까지 잡아냈습니다.
-
-</td><td width="50%" valign="top">
-
-**② 선택의 대가를 기록합니다**
-
-[Blind Dating](https://github.com/chlgks2/blind_dating)에서 Celery를 도입하지 않고
-DB 테이블 하나를 작업 큐로 썼습니다.
-
-5주 일정에 브로커 운영 비용이 더 크다고 판단했고,
-**그 대가(복수 워커 시 원자적 선점 부재)와 개선 방향까지 문서로 남겼습니다.**
-
-</td></tr>
-</table>
-
----
-
 ## 📌 프로젝트
 
 | 프로젝트 | 한 줄 소개 | 규모 | 핵심 성과 |
@@ -171,28 +143,6 @@ DB 테이블 하나를 작업 큐로 썼습니다.
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlgks2&layout=compact&hide_border=true&langs_count=8&title_color=3B6FD4&hide=css,html,scss,less&exclude_repo=Grounding-DINO,INITCLIENT">
 </div>
 -->
-
-## 🏆 수상
-
-| 시기 | 수상 | 내용 |
-|---|---|---|
-| 2023.12 | **최우수상** | 메타버스 아카데미 2기 최종 프로젝트 ([PixG](https://github.com/chlgks2/PixG)) |
-| 2023.08 | **최우수상** | 진천군수배 인공지능 해커톤 |
-| 2024.01 | 우수상 | Microsoft AI 경진대회 |
-
----
-
-## 🎓 교육
-
-| 기간 | 과정 | 내용 |
-|---|---|---|
-| 2026.01 ~ | **삼성 청년 SW 아카데미 (SSAFY) 15기** | 925h · Python · Django · Vue.js · AI — Blind Dating · Emour |
-| 2024.03 ~ 2025.02 | 이어드림스쿨 4기 | 652h · 딥러닝 · NLP/LLM · Vision/Diffusion |
-| 2023.04 ~ 2023.11 | 메타버스 아카데미 2기 (AI) | 생성형 AI · 컴퓨터 비전 — PixG · Dream Shaper · 엄마 이게뭐야 |
-| 2022.05 ~ 2022.12 | 메타버스 아카데미 1기 (네트워크/서버) | Node.js 서버 개발 · SQL · Linux |
-| 2017.03 ~ 2024.02 | **학부 전공** | 경영학과(주전공) · **컴퓨터공학과(복수전공)** |
-
----
 
 <div align="center">
 
