@@ -6,9 +6,6 @@
 
 **AI 모델 학습부터 백엔드 서비스 연동까지 End-to-End 로 수행합니다.**
 
-*지표가 실제 사용 환경을 반영하는지 의심하고, 선택의 대가를 기록하는 방식으로 일합니다.*
-
-[![Email](https://img.shields.io/badge/youngwookr@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:youngwookr@naver.com)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/chlgks)
 
 </div>
