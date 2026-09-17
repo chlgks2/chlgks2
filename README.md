@@ -1,6 +1,5 @@
 <div align="center">
 
-# 최영우 · Youngwoo Choi
 
 ### 백엔드 · AI 개발자
 
