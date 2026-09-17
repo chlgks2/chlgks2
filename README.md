@@ -140,6 +140,30 @@
 </div>
 -->
 
+## 📮 Contact
+
+<table>
+<tr>
+<td><b>Email</b></td>
+<td>
+
+[![Gmail](https://img.shields.io/badge/duddngud3@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:duddngud3@gmail.com)
+[![Naver](https://img.shields.io/badge/youngwookr@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:youngwookr@naver.com)
+
+</td>
+</tr>
+<tr>
+<td><b>HuggingFace</b></td>
+<td>
+
+[huggingface.co/chlgks](https://huggingface.co/chlgks)
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 **제 저장소의 모든 수치는 코드·로그·체크포인트에서 직접 확인한 실측값입니다.**
