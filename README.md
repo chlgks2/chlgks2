@@ -1,10 +1,10 @@
 <div align="center">
 
-
 ### 백엔드 · AI 개발자
 
 **AI 모델 학습부터 백엔드 서비스 연동까지 End-to-End 로 수행합니다.**
 
+[![Gmail](https://img.shields.io/badge/duddngud3@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:duddngud3@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/chlgks)
 
 </div>
@@ -139,30 +139,6 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlgks2&layout=compact&hide_border=true&langs_count=8&title_color=3B6FD4&hide=css,html,scss,less&exclude_repo=Grounding-DINO,INITCLIENT">
 </div>
 -->
-
-## 📮 Contact
-
-<table>
-<tr>
-<td><b>Email</b></td>
-<td>
-
-[![Gmail](https://img.shields.io/badge/duddngud3@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:duddngud3@gmail.com)
-[![Naver](https://img.shields.io/badge/youngwookr@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:youngwookr@naver.com)
-
-</td>
-</tr>
-<tr>
-<td><b>HuggingFace</b></td>
-<td>
-
-[huggingface.co/chlgks](https://huggingface.co/chlgks)
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
